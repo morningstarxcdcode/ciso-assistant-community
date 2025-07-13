@@ -81,7 +81,7 @@
 		"@typescript-eslint/eslint-plugin": "^8.18.0",
 		"@typescript-eslint/parser": "^8.18.0",
 		"@unovis/svelte": "1.4.3-beta.0",
-		"@unovis/ts": "1.4.3-beta.0",
+		"@unovis/ts": "1.5.2",
 		"bits-ui": "^0.22.0",
 		"cmdk-sv": "^0.0.18",
 		"dotenv": "^16.4.7",
